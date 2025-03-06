@@ -1,0 +1,21 @@
+.sci p,h1{
+    font-size: 30px;
+}
+.bio p,h2{
+    font-size: 30px;
+}
+.phy p,h2{
+    font-size: 30px;
+}
+.chem p,h2{
+    font-size: 30px;
+}
+body h2{
+    margin-bottom: -25px;
+}
+.bio h2{
+    margin-top: -7px;
+}
+.sci h1{
+    margin-bottom: -20px;
+}
